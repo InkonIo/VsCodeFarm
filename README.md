@@ -1,7 +1,7 @@
 https://github.com/InkonIo/VsCodeFarmReact 
 (реакт)
 
-https://github.com/InkonIo/VsCodeFarm
+https://github.com/InkonIo/VsCodeFarmJava
 (джава)
 
 скачивать вместе, раздельно для сохранения изменений и просмотра историй, так же удобство
