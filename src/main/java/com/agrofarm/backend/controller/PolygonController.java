@@ -12,7 +12,7 @@ import com.agrofarm.backend.service.WeatherService;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = "http://localhost:5174") // Разрешить доступ с фронта
+@CrossOrigin(origins = "http://localhost:5173") // Разрешить доступ с фронта
 public class PolygonController {
 
     private final AgroMonitoringService agroService;
